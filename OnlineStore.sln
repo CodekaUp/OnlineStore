@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "OnlineStore\Web.csproj", "{6E5FD6A0-7570-4EE5-B4C7-3B711AD9E99B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "OnlineStore\Web.csproj", "{6E5FD6A0-7570-4EE5-B4C7-3B711AD9E99B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{5359C559-5A04-41CB-8861-04CD6394024D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserService", "UserService\UserService.csproj", "{21A4F7E7-31F5-49B7-A381-5ED629004190}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserService", "UserService\UserService.csproj", "{21A4F7E7-31F5-49B7-A381-5ED629004190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductService", "ProductService\ProductService.csproj", "{E81895B7-4BCB-49A9-A2F5-760EF848C25F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductsService", "ProductService\ProductsService.csproj", "{E81895B7-4BCB-49A9-A2F5-760EF848C25F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService", "PaymentService\PaymentService.csproj", "{D4ED90B1-3112-42FE-BB76-6393FCBF6378}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentService", "PaymentService\PaymentService.csproj", "{D4ED90B1-3112-42FE-BB76-6393FCBF6378}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

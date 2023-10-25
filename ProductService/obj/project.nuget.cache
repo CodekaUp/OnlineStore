@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YXK13B/F9f0fJl8fjxHChAL1dXesScKLFzsSsQoKxntd3jbJO6bFlddHPTv2w9gp0ck30lSgQNMmozsBr4z9cw==",
+  "dgSpecHash": "WkwCYVmzI/7cWWmaN05ua7Rhtnv2E3oslQXomtRyYEj5VqMtf76o8RPYX5ZIdTuiZrRHoJxC9sGeOoccN1G1vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w1ksh1mo\\source\\repos\\OnlineStore\\ProductService\\ProductService.csproj",
+  "projectFilePath": "C:\\Users\\w1ksh1mo\\source\\repos\\OnlineStore\\ProductService\\ProductsService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
