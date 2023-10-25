@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w1ksh1mo\\source\\repos\\OnlineStore\\ProductService\\ProductService.csproj",
-      "projectName": "ProductService",
-      "projectPath": "C:\\Users\\w1ksh1mo\\source\\repos\\OnlineStore\\ProductService\\ProductService.csproj",
+      "projectUniqueName": "C:\\Users\\w1ksh1mo\\source\\repos\\OnlineStore\\ProductService\\ProductsService.csproj",
+      "projectName": "ProductsService",
+      "projectPath": "C:\\Users\\w1ksh1mo\\source\\repos\\OnlineStore\\ProductService\\ProductsService.csproj",
       "packagesPath": "C:\\Users\\w1ksh1mo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\w1ksh1mo\\source\\repos\\OnlineStore\\ProductService\\obj\\",
       "projectStyle": "PackageReference",
